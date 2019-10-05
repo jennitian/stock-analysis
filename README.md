@@ -5,7 +5,6 @@ module 2 files
 
 - In this project we are analyzing stock performance for various different types of stocks to determine whether investing in the DQ stock was a good financial move.
 
-##challenge
+## challenge
 
-- Improving upon the All Stocks Analysis program, I created a ticker index so Steve can apply the program to future analysis of larger data sets.
-
+- Simplifying upon the All Stocks Analysis program, I created arrays for the total volume, starting, and ending price of each ticker value that can be accessed easily by a tickerIndex number (0-11).
